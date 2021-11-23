@@ -85,8 +85,6 @@ ESX.RegisterServerCallback('esx_ambulancejob:removeItemsAfterRPDeath', function(
 	local iteminprotect = {
 		'deermeat',
 		'deermeat',
-		'deermeat',
-		'deermeat',
 	}
 
 	if Config.RemoveCashAfterRPDeath then
